@@ -21,3 +21,6 @@ https://stackoverflow.com/questions/13852870/red-black-tree-over-avl-tree
 ### Binary Heap
 https://visualgo.net/en/heap
 https://stackoverflow.com/questions/1699057/why-are-two-different-concepts-both-called-heap
+
+### Graphs
+https://visualgo.net/en/graphds?slide=1

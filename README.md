@@ -3,6 +3,9 @@ DS-Algo in Java
 
 https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link/c25f98c73a03f5b1107cd0e2f4bce29c9d78e31655e55cb0b785d56f0036c9d1
 
+### BigO
+https://www.bigocheatsheet.com/
+
 ### Linked List
 https://visualgo.net/en/list
 
@@ -24,3 +27,28 @@ https://stackoverflow.com/questions/1699057/why-are-two-different-concepts-both-
 
 ### Graphs
 https://visualgo.net/en/graphds?slide=1
+
+### Sorting
+https://www.toptal.com/developers/sorting-algorithms
+https://www.youtube.com/user/AlgoRythmics/videos
+https://brilliant.org/wiki/heap-sort/
+Radix Sort: https://brilliant.org/wiki/radix-sort/
+Radix Sort Animation: https://www.cs.usfca.edu/~galles/visualization/RadixSort.html
+Counting Sort: https://brilliant.org/wiki/counting-sort/
+Counting Sort Animation: https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
+
+// #1 - Sort 10 schools around your house by distance. Insertion sort as small size.
+
+// #2 - eBay sorts listings by the current Bid amount. Radix sort or counting sort. As integers range is small.
+
+// #3 - Sport scores on ESPN. Quick sort as space complexity is less.
+
+// #4 - Massive database (can't fit all into memory) needs to sort through past year's user data. Merge sort as tons of data, and space complexity nod needed.
+
+// #5 - Almost sorted Udemy review data needs to update and add 2 new reviews. Insertion sort as it is almost sorted.
+
+// #6 - Temperature Records for the past 50 years in Canada. First radix or counting sort if no decimal places. Otherwise Quick Sort for space complexity.
+
+// #7 - Large user name database needs to be sorted. Merge sort if enough memory otherwise Quick sort.
+
+// #8 - You want to teach sorting for the first time. Bubble and Selection sort.

@@ -52,3 +52,22 @@ Counting Sort Animation: https://www.cs.usfca.edu/~galles/visualization/Counting
 // #7 - Large user name database needs to be sorted. Merge sort if enough memory otherwise Quick sort.
 
 // #8 - You want to teach sorting for the first time. Bubble and Selection sort.
+
+### Searching
+
+//If you know a solution is not far from the root of the tree: BFS
+
+
+//If the tree is very deep and solutions are rare: BFS, as a tree is really deep tree and it will take recursion to repeat the node.
+
+
+//If the tree is very wide: DFS, as BFS will take too much memory
+
+//If solutions are frequent but located deep in the tree: DFS
+
+
+//Determining whether a path exists between two nodes: DFS
+
+
+//Finding the shortest path: BFS
+

@@ -73,3 +73,11 @@ Counting Sort Animation: https://www.cs.usfca.edu/~galles/visualization/Counting
 
 
 https://visualgo.net/en/dfsbfs?slide=1
+
+
+### Dynamic Programming
+Here are some popular Dynamic Programming Questions (see if you can notice the pattern):
+
+1. House Robber    - https://leetcode.com/problems/house-robber
+2. Best Time to Buy and Sell Stock  - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+3. Climbing Stairs    - https://leetcode.com/problems/climbing-stairs/
